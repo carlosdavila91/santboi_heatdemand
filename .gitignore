@@ -1,1 +1,11 @@
 .ipynb_checkpoints/
+.DS_store
+
+# Folders
+my_env
+
+# Files
+.csv
+
+# Scripts
+get-pip.py
