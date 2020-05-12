@@ -6,6 +6,7 @@ my_env
 
 # Files
 .csv
+FOO.md
 
 # Scripts
 get-pip.py
