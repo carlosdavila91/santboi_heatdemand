@@ -7,6 +7,7 @@ my_env
 # Files
 .csv
 FOO.md
+variables.rtf
 
 # Scripts
 get-pip.py
